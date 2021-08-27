@@ -4,6 +4,7 @@
 For this project, we have teamed up with another ficticious invester with the goal of opening a surf and ice cream shop in Hawaii.  The purpose of this analysis was to review weather data on the island of Oahu and create summary statistics so that our investing partner can use that information to determine if Oahu is a suitable location to open a surf and ice cream shop.  Our investing partner wanted to determine if the surf and ice cream shop business would be sustainable year-round and he specifically requested temperature data for the months of June and December.
 ## Results
 One thing that is important to us as investors is that our surf and ice cream shop is able to operate year-round without needing to have seasonal closings due to weather.  Our investment team believes that people will eat more ice cream and do more surfing when it's sunny out and temperatures are warmer so ideally, we would like to open our surf and ice cream shop in a location where the temperature is warm all year and doesn't fluctuate drastically.  The results of our summary statistics for the months of June and December are displayed below.
+
 ![june](june_temps.PNG)
 ![dec](dec_temps.PNG)
 
